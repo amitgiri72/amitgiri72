@@ -1,3 +1,4 @@
+[![An image of @amitgiri72's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitgiri72)](https://holopin.io/@amitgiri72)
 <h1 align="center">Hi there 👋, I'm Amit Giri</h1>
 <h3 align="center">Passionate Full Stack Developer from India</h3>
 
@@ -35,3 +36,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
+
