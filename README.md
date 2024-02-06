@@ -4,7 +4,7 @@
 
 - 🔭 Currently crafting applications with **React**, **MongoDB**, **Express.js**, and **Node.js**
 
-- 🌱 Learning the intricacies of advanced **Express.js** and **MongoDB** concepts
+- 🌱 Learning the intricacies of advanced **Next.js** and **System Design** concepts
 - 🎯 Actively seeking opportunities in **Software Development Engineering**
 
 - 📫 Reach out to me at **ag4982324@gmail.com**
