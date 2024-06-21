@@ -7,7 +7,7 @@
 - 🌱 Learning the intricacies of advanced **Next.js** and **System Design** concepts
 - 🎯 Actively seeking opportunities in **Software Development Engineering**
 
-- 📫 Reach out to me at **ag4982324@gmail.com**
+- 📫 Reach out to me at **amitgiri00010@gmail.com**
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
